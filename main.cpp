@@ -1,5 +1,5 @@
-#include <iostream>
 #include <greeter.h>
+#include <iostream>
 
 int main() {
   greeter::Greeter greeter("World");
